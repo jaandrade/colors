@@ -12,6 +12,7 @@ const allColors = [
     new Color('leafygreen', '#48C9B0'),
     new Color('sunkissedyellow', '#F4D03F'),
     new Color('groovygray', '#D7DBDD'),
+    new Color('white', '#FFFFFF'),
 ];
 
 
